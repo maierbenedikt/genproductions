@@ -1,0 +1,4 @@
+import model DMsimp_s_spin1_monotop --modelname
+generate       p p  > xd xd~ t    [QCD]
+add process    p p  > xd xd~ t~   [QCD]
+output Vector_MonoTop_NLO_Mphi_Mchi_gSM-0p25_gDM-1p0_13TeV
