@@ -1,0 +1,118 @@
+change rwgt_dir rwgt
+change helicity False
+launch
+set param_card a12s 3 0.5
+set param_card b12s 3 0.5
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.3
+set param_card b12s 3 0.3
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.15
+set param_card b12s 3 0.15
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.1
+set param_card b12s 3 0.1
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.05
+set param_card b12s 3 0.05
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.025
+set param_card b12s 3 0.025
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.01
+set param_card b12s 3 0.01
+set DECAY 9000004 AUTO
+launch
+set param_card a12s 3 0.001
+set param_card b12s 3 0.001
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.2
+set param_card aqs 2 1 -0.2
+set param_card bqs 1 2 0.2
+set param_card bqs 2 1 -0.2
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.15
+set param_card aqs 2 1 -0.15
+set param_card bqs 1 2 0.15
+set param_card bqs 2 1 -0.15
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.125
+set param_card aqs 2 1 -0.125
+set param_card bqs 1 2 0.125
+set param_card bqs 2 1 -0.125
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.09
+set param_card aqs 2 1 -0.09
+set param_card bqs 1 2 0.09
+set param_card bqs 2 1 -0.09
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.08
+set param_card aqs 2 1 -0.08
+set param_card bqs 1 2 0.08
+set param_card bqs 2 1 -0.08
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.07
+set param_card aqs 2 1 -0.07
+set param_card bqs 1 2 0.07
+set param_card bqs 2 1 -0.07
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.06
+set param_card aqs 2 1 -0.06
+set param_card bqs 1 2 0.06
+set param_card bqs 2 1 -0.06
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.05
+set param_card aqs 2 1 -0.05
+set param_card bqs 1 2 0.05
+set param_card bqs 2 1 -0.05
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.04
+set param_card aqs 2 1 -0.04
+set param_card bqs 1 2 0.04
+set param_card bqs 2 1 -0.04
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.03
+set param_card aqs 2 1 -0.03
+set param_card bqs 1 2 0.03
+set param_card bqs 2 1 -0.03
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.02
+set param_card aqs 2 1 -0.02
+set param_card bqs 1 2 0.02
+set param_card bqs 2 1 -0.02
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.01
+set param_card aqs 2 1 -0.01
+set param_card bqs 1 2 0.01
+set param_card bqs 2 1 -0.01
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.005
+set param_card aqs 2 1 -0.005
+set param_card bqs 1 2 0.005
+set param_card bqs 2 1 -0.005
+set DECAY 9000004 AUTO
+launch
+set param_card aqs 1 2 0.001
+set param_card aqs 2 1 -0.001
+set param_card bqs 1 2 0.001
+set param_card bqs 2 1 -0.001
+set DECAY 9000004 AUTO
